@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+numpy
+transformers
+torch
+speechrecognition
+pyttsx3
+pyaudio
+fpdf
+Pillow
+scikit-learn
+joblib
+pandas
+requests
